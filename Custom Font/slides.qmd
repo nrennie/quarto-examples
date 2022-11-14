@@ -1,0 +1,16 @@
+---
+title: "slides"
+format:
+  revealjs: 
+    theme: [default, custom.scss]
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+```{r}
+#| eval: false
+#| echo: true
+3 <= 5
+```
