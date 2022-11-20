@@ -1,0 +1,9 @@
+---
+format: pdf
+---
+
+\begin{align}
+x + y + z = 2 \\
+x = 5 \nonumber\\
+z = -2 
+\end{align}

@@ -1,0 +1,20 @@
+---
+format:
+  html:
+    html-math-method: mathjax
+    include-in-header:
+      - text: |
+          <script>
+          window.MathJax = {
+            tex: {
+              tags: 'ams'
+            }
+          };
+          </script>
+---
+
+\begin{align}
+x + y + z = 2 \\
+x = 5 \nonumber\\
+z = -2 
+\end{align}
