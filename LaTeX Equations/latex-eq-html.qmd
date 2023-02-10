@@ -1,0 +1,19 @@
+---
+format:
+  html:
+    html-math-method: mathjax
+    include-in-header:
+      - text: |
+          <script>
+          window.MathJax = {tex: { tags: 'ams' } };
+          MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+          </script>
+---
+
+Please see Eq. $\eqref{eq-myeqn}$:
+
+$$
+\begin{align}
+x = 1 \label{eq-myeqn}
+\end{align}
+$$

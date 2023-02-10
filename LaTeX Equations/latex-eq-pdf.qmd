@@ -1,0 +1,9 @@
+---
+format: pdf
+---
+
+Please see Eq. \eqref{eq-myeqn}:
+
+$$
+x = 1
+$$ {#eq-myeqn}
